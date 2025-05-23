@@ -1,6 +1,6 @@
 {
-  "country": "w1",
   "$schema": "https://raw.githubusercontent.com/businesscentralapps/tmpDQopDM-Actions/main/settings.schema.json",
+  "country": "w1",
   "appFolders": [],
   "testFolders": [],
   "bcptTestFolders": []
