@@ -1,0 +1,9 @@
+{
+  "templateUrl": "https://github.com/businesscentralapps/tmpDQopDM-PTE@main",
+  "$schema": "https://raw.githubusercontent.com/businesscentralapps/tmpDQopDM-Actions/main/settings.schema.json",
+  "runs-on": "ubuntu-latest",
+  "type": "PTE",
+  "MicrosoftTelemetryConnectionString": "",
+  "useProjectDependencies": true,
+  "shell": "pwsh"
+}
